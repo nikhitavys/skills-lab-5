@@ -3,7 +3,7 @@
 # Group Members: Nick Usme, Nikhita Vysyaraju, Ram Adesara
 
 # What the software does:
-The program...
+This program asks the user for their name, and based on a randomly generated number, the code will grab the respective week prediction and tell the user that they will have that kind of week!
 
 # How to install and use the software:
 
