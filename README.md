@@ -32,3 +32,8 @@ A GitHub Fork of a repository allows you to have your own copy of the repository
 We chose the Do What You Want Public License because it would allow other people to add more to/change the code to make the program do whatever they want it to do. Since it's a very basic code that's not very complex, the person can basically use the program as a template or starting point for their project.
 
 # Code of Conduct
+We chose the Contributor Covenant Code of Conduct ( https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md ) because it includes:
+
+1. The rules that all participants must abide by: the rules primarily focus on making the project a safe environment for everyone. For example, derogatory comments are not permitted. Participants of the project are not allowed to share private information of others.
+2. Standards that the community follows: such as being empathetic towards others and demonstrating kindness.
+3. Consequences that people who don’t abide by the rules must face, such as being temporarily or permanently banned.
