@@ -11,8 +11,9 @@ On the main page of our repository, right above the file list, you will see a gr
 # Usage Documentation:
 name1 - The user's name. When prompted, type your name into the command line and hit enter.
 
-### Code Snip
+###Code Snip
 
+'''
 import random
 
 fortunes = {
@@ -20,9 +21,9 @@ fortunes = {
 2:"you will have an eh so good week",
 3:"you will have a terrible week"
 }
-randomNum = random.randint(1,3)
 
-###
+randomNum = random.randint(1,3)
+'''
 
 # How to contribute:
 A GitHub Fork of a repository allows you to have your own copy of the repository to edit without impacting the original repository. To do that, open up our repository and go to the top right corner to find the button "Fork" to have your own copy of the repository. You can also submit pull requests to the owner to change the parent repository. Staying on the main repository page, you can find the category called "Pull Request" and then click the green button to create a new pull request. You can change whatever you want to edit and then submit the request!
