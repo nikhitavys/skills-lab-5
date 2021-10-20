@@ -11,9 +11,9 @@ On the main page of our repository, right above the file list, you will see a gr
 # Usage Documentation:
 name1 - The user's name. When prompted, type your name into the command line and hit enter.
 
-###Code Snip
+### Code Snip
 
-'''
+''' 
 import random
 
 fortunes = {
@@ -22,7 +22,7 @@ fortunes = {
 3:"you will have a terrible week"
 }
 
-randomNum = random.randint(1,3)
+randomNum = random.randint(1,3) 
 '''
 
 # How to contribute:
